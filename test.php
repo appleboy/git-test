@@ -4,4 +4,5 @@
 	echo "Hotfix 1.3.1";
 	echo "commit 2";
 	echo "commit 3";
+	echo "test.php";
 ?>

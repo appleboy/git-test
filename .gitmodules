@@ -1,0 +1,3 @@
+[submodule "user_guide"]
+	path = user_guide
+	url = https://github.com/appleboy/CodeIgniter-TW-Language
